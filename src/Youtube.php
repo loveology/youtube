@@ -228,7 +228,7 @@ class Youtube
     /**
      * Delete a YouTube video by it's ID.
      *
-     * @param  int $id
+     * @param  string $id
      * @return bool
      * @throws Exception
      */
