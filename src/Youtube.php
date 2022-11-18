@@ -279,7 +279,7 @@ class Youtube
     /**
      * Check if a YouTube video exists by it's ID.
      *
-     * @param  int  $id
+     * @param  string  $id
      *
      * @return bool
      */
